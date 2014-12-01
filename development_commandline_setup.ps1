@@ -1,0 +1,3 @@
+.\development_commandline_setup_java.ps1
+.\development_commandline_setup_ant.ps1
+.\development_commandline_setup_maven.ps1
