@@ -1,3 +1,4 @@
+@echo off
 PATH=%PATH%;C:\bin
 PATH=%PATH%;C:\Program Files (x86)\nodejs\
 PATH=%PATH%;C:\ProgramData\chocolatey\bin
